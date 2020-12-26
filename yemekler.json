@@ -1,0 +1,46 @@
+﻿{"yemekler":[
+  	{ 
+	"yemek_id":1, 
+  	"yemek_adi":"Yemek Adı 1", 
+   	"yemek_aciklama":"Açıklama 1", 
+   	"yemek_tur":"Ana Yemek", 
+   	"yemek_pisirme_suresi":"John",
+   	"yemek_hazirlama_suresi":"Anna",
+   	"yemek_kisi_sayisi":"John", 
+  	"yemek_resim":"John", 
+   	"yemek_malzemeler":"Peter"
+ 	},
+	{ 
+	"yemek_id":2, 
+  	"yemek_adi":"Yemek Adı 2", 
+   	"yemek_aciklama":"Açıklama 2", 
+   	"yemek_tur":"Salata", 
+   	"yemek_pisirme_suresi":"John",
+   	"yemek_hazirlama_suresi":"Anna",
+   	"yemek_kisi_sayisi":"John", 
+  	"yemek_resim":"John", 
+   	"yemek_malzemeler":"Peter"
+ 	},
+	{ 
+	"yemek_id":3, 
+  	"yemek_adi":"yemek 3", 
+   	"yemek_aciklama":"John", 
+   	"yemek_tur":"Tatlı", 
+   	"yemek_pisirme_suresi":"John",
+   	"yemek_hazirlama_suresi":"Anna",
+   	"yemek_kisi_sayisi":"John", 
+  	"yemek_resim":"John", 
+   	"yemek_malzemeler":"Peter"
+ 	},
+	{ 
+	"yemek_id":4, 
+  	"yemek_adi":"yemek 4", 
+   	"yemek_aciklama":"John", 
+   	"yemek_tur":"Hamur", 
+   	"yemek_pisirme_suresi":"John",
+   	"yemek_hazirlama_suresi":"Anna",
+   	"yemek_kisi_sayisi":"John", 
+  	"yemek_resim":"John", 
+   	"yemek_malzemeler":"Peter"
+ 	},
+]}
