@@ -19,13 +19,7 @@
    	"yemek_hazirlama_suresi":"5 dk",
    	"yemek_kisi_sayisi":"2-4", 
   	"yemek_resim":"https://i4.hurimg.com/i/hurriyet/75/750x422/5e0a0551c9de3d295c838ee0.jpg", 
-   	"yemek_malzemeler":"4 adet orta boy soğan
-5-6 dal maydanoz
-2 yemek kaşığı sumak
-1 çay kaşığı pul biber
-3 yemek kaşığı zeytinyağı
-Yarım limonun suyu
-Tuz"
+   	"yemek_malzemeler":"4 adet orta boy soğan 5-6 dal maydanoz 2 yemek kaşığı sumak 1 çay kaşığı pul biber 3 yemek kaşığı zeytinyağı Yarım limonun suyu Tuz"
  	},
 	{ 
 	"yemek_id":3, 
