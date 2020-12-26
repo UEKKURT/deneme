@@ -1,46 +1,70 @@
-﻿{"yemekler":[
+{"yemekler":[
   	{ 
 	"yemek_id":1, 
   	"yemek_adi":"Yemek Adı 1", 
    	"yemek_aciklama":"Açıklama 1", 
    	"yemek_tur":"Ana Yemek", 
-   	"yemek_pisirme_suresi":"John",
-   	"yemek_hazirlama_suresi":"Anna",
-   	"yemek_kisi_sayisi":"John", 
-  	"yemek_resim":"John", 
-   	"yemek_malzemeler":"Peter"
+   	"yemek_pisirme_suresi":"20 dk",
+   	"yemek_hazirlama_suresi":"10 dk",
+   	"yemek_kisi_sayisi":"4-6", 
+  	"yemek_resim":"https://im.haberturk.com/2019/12/04/ver1575459460/adana-kebap_2546270_810x458.jpg", 
+   	"yemek_malzemeler":"500 gr kuzu kıyma
+100 gr kuyruk yağı
+Pul biber
+Toz biber
+Tuz
+1 adet soğan"
  	},
 	{ 
 	"yemek_id":2, 
   	"yemek_adi":"Yemek Adı 2", 
    	"yemek_aciklama":"Açıklama 2", 
    	"yemek_tur":"Salata", 
-   	"yemek_pisirme_suresi":"John",
-   	"yemek_hazirlama_suresi":"Anna",
-   	"yemek_kisi_sayisi":"John", 
-  	"yemek_resim":"John", 
-   	"yemek_malzemeler":"Peter"
+   	"yemek_pisirme_suresi":"0 dk",
+   	"yemek_hazirlama_suresi":"5 dk",
+   	"yemek_kisi_sayisi":"2-4", 
+  	"yemek_resim":"https://i4.hurimg.com/i/hurriyet/75/750x422/5e0a0551c9de3d295c838ee0.jpg", 
+   	"yemek_malzemeler":"4 adet orta boy soğan
+5-6 dal maydanoz
+2 yemek kaşığı sumak
+1 çay kaşığı pul biber
+3 yemek kaşığı zeytinyağı
+Yarım limonun suyu
+Tuz"
  	},
 	{ 
 	"yemek_id":3, 
   	"yemek_adi":"yemek 3", 
-   	"yemek_aciklama":"John", 
+   	"yemek_aciklama":"Açıklama 3", 
    	"yemek_tur":"Tatlı", 
-   	"yemek_pisirme_suresi":"John",
-   	"yemek_hazirlama_suresi":"Anna",
-   	"yemek_kisi_sayisi":"John", 
-  	"yemek_resim":"John", 
-   	"yemek_malzemeler":"Peter"
+   	"yemek_pisirme_suresi":"15 dk",
+   	"yemek_hazirlama_suresi":"30 dk",
+   	"yemek_kisi_sayisi":"4-6", 
+  	"yemek_resim":"https://im.haberturk.com/2019/12/04/ver1575443579/cikolatali-puding_2546157_810x458.jpg", 
+   	"yemek_malzemeler":"4 su bardağı süt
+8 yemek kaşığı toz şeker
+4 yemek kaşığı kakao
+2 yemek kaşığı un
+2 yemek kaşığı nişasta
+1 paket vanilya
+1 tatlı kaşığı tereyağı"
  	},
 	{ 
 	"yemek_id":4, 
   	"yemek_adi":"yemek 4", 
-   	"yemek_aciklama":"John", 
+   	"yemek_aciklama":"Açıklama 4", 
    	"yemek_tur":"Hamur", 
-   	"yemek_pisirme_suresi":"John",
-   	"yemek_hazirlama_suresi":"Anna",
-   	"yemek_kisi_sayisi":"John", 
-  	"yemek_resim":"John", 
-   	"yemek_malzemeler":"Peter"
+   	"yemek_pisirme_suresi":"30 dk",
+   	"yemek_hazirlama_suresi":"20 dk",
+   	"yemek_kisi_sayisi":"5-6", 
+  	"yemek_resim":"https://iasbh.tmgrup.com.tr/b42ec5/812/467/0/795/2093/2001?u=http://i.tmgrup.com.tr/sfr/2013/09/11/Orjinal/518023228835.jpg", 
+   	"yemek_malzemeler":"1 kg un
+11 adet yumurta
+100 gram tereyağı
+Yarımşar su bardağı sıvı yağ ve süt
+Yarım kg beyaz peynir
+1'er demet dereotu ve fesleğen
+Yeteri kadar su
+Tuz"
  	},
 ]}
